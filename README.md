@@ -1,13 +1,20 @@
-# QR Tools
+# QR Code Color Contrast Checker
 
-Free QR Code Tools built by QR Flow.
+Free online tool to test QR code foreground and background color combinations.
 
-## Available Tools
+## Features
 
-- QR Code Color Contrast Checker
-- QR Code Size Calculator
-- QR Scan Distance Calculator
+* Instant contrast analysis
+* QR-friendly color validation
+* Mobile compatible
+* Free to use
 
-Created by QR Flow
+## Tool
+
+https://uqrflow-create.github.io/qr-tools/
+
+## Powered By
 
 https://useqrflow.com
+
+Dynamic QR Code Generator and Analytics Platform.
